@@ -29,6 +29,10 @@ header a{
     cursor: pointer;
 }
 
+.col-33 i {
+    font-size: 40px;
+}
+
 /* HEADER */
 header {
     width: 100%;
@@ -82,6 +86,13 @@ header li {
     padding: 6px 14px;
 }
 
+.btn-large { 
+    background: transparent;
+    border: none;
+    font-family: inherit;
+    padding: 6px 70px;
+}
+
 .btn-primary {
     background-color:#0061FF;
     color: #FFFFFF;
@@ -92,9 +103,6 @@ header li {
     color: black;
 }
 
-.btn-large {
-    padding: 6px 70px;
-}
 
 .btn-tertiary{
     border: 1px solid black;
@@ -104,6 +112,10 @@ header li {
 header .btn {
     font-size: 16px;
 }
+ main .btn, main .btn-large {
+    font-size: 16px
+ }
+
 
 /*  */
 
