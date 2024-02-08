@@ -150,9 +150,7 @@ header .btn {
 }
 
 .col-33 {
-    width: calc(100 / 3);
-    border: 1px dashed black;
-
+    border: 1px solid black;
 }
 
 .col-35 {
@@ -208,6 +206,23 @@ header .btn {
     padding-top:160px ;
 }
 
-.col-33 {
+.first .col-33 {
+    width: calc(100% - 100px / 3);
     padding: 10px 30px 10px 30px;
+    /* display:flex;
+    justify-content: flex-start; */
+
+}
+
+.col-33.sx{
+    margin-right: 25px;
+}
+
+.col-33.cent{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.col-33.dx {
+    margin-left: 25px;
 }
