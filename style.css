@@ -110,9 +110,11 @@ header .btn {
 
 .row {
     display: flex;
-    flex-wrap: wrap;
+/*     flex-wrap: wrap;
+ */    
     margin-left: -10px;
     margin-right: -10px;
+    border: 1px dashed black;
 }
 
 .col-20 {
@@ -121,10 +123,14 @@ header .btn {
 
 .col-33 {
     width: 33%;
+    border: 1px dashed black;
+
 }
 
 .col-77 {
     width: 77%;
+    border: 1px dashed black;
+
 }
 
 /*  */
