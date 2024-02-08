@@ -10,11 +10,46 @@ body {
     font-family: "Open Sans", sans-serif;   
 }  
 
+/* GENERAL */
+img {
+    max-width: 100%;
+    
+}
+
+
 /* HEADER */
 header {
     width: 100%;
     background-color: lightgray;
     display: flex;
     justify-content: space-between;
-    padding: 30px 18px;
+    padding: 30px 20px;
+ }
+
+.left-head {
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    gap: 40px;
+}
+
+/* .logo{
+    padding-right: 40px;
+} */
+.right-head {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+header ul  {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+header li {
+    list-style: none;
+    gap: 40px;
 }
