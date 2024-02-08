@@ -29,7 +29,7 @@ header a{
     cursor: pointer;
 }
 
-.col-33 i {
+.col-35 i {
     font-size: 40px;
 }
 
@@ -150,16 +150,24 @@ header .btn {
 }
 
 .col-33 {
-    width: 33%;
+    width: calc(100 / 3);
+    border: 1px dashed black;
+
+}
+
+.col-35 {
+    width: 35%;
     border: 1px dashed black;
 
 }
 
 .col-77 {
-    width: 77%;
+    width: 75%;
     border: 1px dashed black;
 
 }
+
+
 
 /*  */
 
@@ -181,7 +189,7 @@ header .btn {
 
 }
 
-.hero .col-33 {
+.hero .col-35 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -195,6 +203,11 @@ header .btn {
 
 /*  */
 
+/* first section */
 .first > .container-small {
     padding-top:160px ;
+}
+
+.col-33 {
+    padding: 10px 30px 10px 30px;
 }
