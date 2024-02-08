@@ -10,6 +10,10 @@ body {
     font-family: "Open Sans", sans-serif;   
 }  
 
+main h1{
+    font-size: 44px;
+}
+
 /* GENERAL */
 img {
     max-width: 100%;
@@ -95,3 +99,39 @@ header .btn {
 }
 
 /*  */
+
+/* GRID LAYOUT */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.col-20 {
+    width: 20%;
+}
+
+.col-33 {
+    width: 33%;
+}
+
+.col-77 {
+    width: 77%;
+}
+
+/*  */
+
+/* MAIN */
+
+.hero {
+    width: 100%;
+    background-color: #B4D0E7;
+}
