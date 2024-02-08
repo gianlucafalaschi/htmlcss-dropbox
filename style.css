@@ -17,15 +17,22 @@ main h1{
 /* GENERAL */
 img {
     max-width: 100%;
-    height: auto;
-    
+    height: auto;  
 }
 
+header a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn {
+    cursor: pointer;
+}
 
 /* HEADER */
 header {
     width: 100%;
-    background-color: lightgray;
+    background-color: #FFFFFF;
     display: flex;
     justify-content: space-between;
     align-content: center;
