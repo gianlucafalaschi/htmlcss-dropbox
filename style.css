@@ -11,7 +11,15 @@ body {
 }  
 
 main h1{
-    font-size: 44px;
+    font-size: 53px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.col-35 i {
+    font-size: 40px;
 }
 
 /* GENERAL */
@@ -29,9 +37,7 @@ header a{
     cursor: pointer;
 }
 
-.col-35 i {
-    font-size: 40px;
-}
+
 
 /* HEADER */
 header {
@@ -225,4 +231,12 @@ header .btn {
 
 .col-33.dx {
     margin-left: 25px;
+}
+
+.first h2.title{
+    padding-bottom: 70px;
+} 
+
+.first .row{
+    padding-top: 50px;
 }
