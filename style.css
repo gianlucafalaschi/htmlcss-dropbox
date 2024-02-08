@@ -176,4 +176,10 @@ header .btn {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: flex-start;
+    padding-bottom: 15px;
+}
+
+.hero .col-77 {
+    margin-bottom: -70px;
 }
