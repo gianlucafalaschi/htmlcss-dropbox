@@ -141,3 +141,12 @@ header .btn {
     width: 100%;
     background-color: #B4D0E7;
 }
+
+.hero > .container {
+    padding-top: 100px;
+}
+
+.hero .row {
+    padding-top: 60px;
+
+}
