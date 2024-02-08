@@ -37,18 +37,16 @@ header {
     width: 50%;
     display: flex;
     justify-content: flex-start;
-    align-content: center;
+    align-items: center;
     gap: 40px;
 }
 
-/* .logo{
-    padding-right: 40px;
-} */
+
 .right-head {
     width: 50%;
     display: flex;
     justify-content: flex-end;
-    align-content: center;
+    align-items: center;
 
     gap: 20px;
 }
