@@ -156,6 +156,8 @@ header .btn {
 
 /* MAIN */
 
+/* hero */
+
 .hero {
     width: 100%;
     background-color: #B4D0E7;
@@ -168,4 +170,10 @@ header .btn {
 .hero .row {
     padding-top: 60px;
 
+}
+
+.hero .col-33 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
