@@ -9,3 +9,12 @@
 body {
     font-family: "Open Sans", sans-serif;   
 }  
+
+/* HEADER */
+header {
+    width: 100%;
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 18px;
+}
