@@ -106,7 +106,7 @@ header li {
     background: transparent;
     border: none;
     font-family: inherit;
-    padding: 6px 70px;
+    padding: 8px 38px;
 }
 
 .btn-primary {
@@ -128,6 +128,13 @@ header li {
 .plans .btn-primary{
     width: 100%;
 }
+
+.plans.column-bottom .btn-large{
+    background-color:#0061FF;
+    color: #FFFFFF;
+    padding: 8px 38px;
+}
+
 
 header .btn {
     font-size: 16px;
@@ -361,6 +368,8 @@ header .btn {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+
 
 /*  */
 /*  */
