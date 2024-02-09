@@ -224,9 +224,13 @@ header .btn {
 
 .first .col-33 {
     width: calc(100% - 100px / 3);
-    padding: 10px 30px 10px 30px;
     /* display:flex;
     justify-content: flex-start; */
+
+}
+
+.plans{
+    padding: 10px 30px 10px 30px;
 
 }
 
