@@ -176,9 +176,15 @@ header .btn {
     width: 20%;
 }
 
-.col-33 {
-/*     border: 1px solid black;
- */}
+.col-33bottom {
+    width: 33%;
+    border: 1px solid black;  
+ }
+ .col-67bottom{
+    width: 67%;
+    border: 1px solid black;  
+
+ }
 
 .col-30 {
     width: 30%;
@@ -310,6 +316,11 @@ header .btn {
     padding-top: 34px;
 }
 
+ /* bottom column */
+/* .row.row-bottom{
+    justify-content:space-between; 
+} */
+
 /* /list */
 
 .plans .buy {
@@ -341,7 +352,7 @@ header .btn {
     padding-bottom: 0 ;
 }
 
-.col-33 .icona, .col-100 .icona{
+.icona{
     padding-right: 5px;
 }
 
@@ -372,4 +383,4 @@ header .btn {
 
 
 /*  */
-/*  */
+/*  *
