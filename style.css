@@ -270,7 +270,10 @@ header .btn {
 /* list */
 .plans li{
     list-style: none;
-    line-height: 40px;
+}
+
+.plans li:not(i){
+    color: #66686B;
 }
 
 .plans ul {
@@ -296,7 +299,21 @@ header .btn {
 
 }
 
+.first-list .icona {
+    color: black;
+}
 
+.second-list .icona{
+    color: #0061FF;
+}
+
+.plans li {
+    padding-bottom: 20px;
+}
+
+.plans li:last-of-type{
+    padding-bottom: 0 ;
+}
 
 .col-33 .icona{
     padding-right: 5px;
