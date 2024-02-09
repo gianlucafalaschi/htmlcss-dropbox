@@ -41,7 +41,7 @@ header a{
 
 /* HEADER */
 header {
-    width: 100%;
+    max-width: 100%;
     background-color: #FFFFFF;
     display: flex;
     justify-content: space-between;
@@ -180,7 +180,7 @@ header .btn {
 /* hero */
 
 .hero {
-    width: 100%;
+    max-width: 100%;
     background-color: #B4D0E7;
 }
 
