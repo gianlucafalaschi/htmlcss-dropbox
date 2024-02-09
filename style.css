@@ -229,9 +229,22 @@ header .btn {
 
 }
 
-.plans{
-    padding: 10px 30px 10px 30px;
+/* plans */
 
+.plans{
+    padding: 38px 30px 10px 30px;
+
+}
+
+.plan-people{
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid #D0D0D3;
+    padding: 8px 0 ;
+}
+
+.col-33 .icona{
+    padding-right: 5px;
 }
 
 .col-33.sx{
@@ -255,5 +268,5 @@ header .btn {
     padding-top: 50px;
     padding-bottom: 50px;
 }
-
+/*  */
 /*  */
