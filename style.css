@@ -243,6 +243,31 @@ header .btn {
     padding: 8px 0 ;
 }
 
+.plan-type{
+    padding-bottom: 55px;
+}
+
+.plan-type .plan-name {
+    padding-bottom: 26px;
+}
+
+.plan-type .price {
+    padding-bottom: 20px;
+    display:block;
+    font-weight: bold;
+}
+
+.plan-type .per-month{
+    color: #66686B;
+}
+
+/* list */
+.plans li{
+    list-style: none;
+    line-height: 40px;
+}
+/* /list */
+
 .col-33 .icona{
     padding-right: 5px;
 }
