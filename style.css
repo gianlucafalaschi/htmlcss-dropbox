@@ -194,16 +194,22 @@ header .btn {
 }
 
 .hero .col-30 {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: flex-start;
     padding-bottom: 15px;
 }
 
 .hero .col-70 {
     margin-bottom: -70px;
 }
+
+.hero p.description{
+    padding-bottom: 30px;
+}
+
+.hero p.annulla{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
 
 /*  */
 
