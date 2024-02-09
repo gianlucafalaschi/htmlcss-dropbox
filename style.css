@@ -22,6 +22,10 @@ h2{
     font-size: 40px;
 }
 
+.plans h4 {
+    font-size: 16px;
+}
+
 /* GENERAL */
 img {
     max-width: 100%;
@@ -82,6 +86,8 @@ header li {
     list-style: none;
     gap: 40px;
 }
+
+
 
 /* BUTTONS */
 
@@ -244,7 +250,7 @@ header .btn {
 }
 
 .plan-type{
-    padding-bottom: 55px;
+    padding-bottom: 54px;
 }
 
 .plan-type .plan-name {
@@ -266,7 +272,31 @@ header .btn {
     list-style: none;
     line-height: 40px;
 }
+
+.plans ul {
+    padding-bottom: 54px;
+}
+
+.plans .second-list{
+    padding-top: 34px;
+}
+
 /* /list */
+
+.plans .buy {
+    padding-top: 34px;
+
+}
+
+.plans hr{
+    display: block;
+    width:22%;
+    margin: 40px 0;
+    color: #66686B;
+
+}
+
+
 
 .col-33 .icona{
     padding-right: 5px;
