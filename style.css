@@ -37,6 +37,10 @@ header a{
     color: black;
 }
 
+.plans a {
+    color:#1800EE ;
+}
+
 .btn {
     cursor: pointer;
 }
@@ -119,6 +123,10 @@ header li {
 .btn-tertiary{
     border: 1px solid black;
     background-color: white;
+}
+
+.plans .btn-primary{
+    width: 100%;
 }
 
 header .btn {
