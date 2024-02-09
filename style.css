@@ -165,8 +165,8 @@ header .btn {
 
 }
 
-.col-77 {
-    width: 75%;
+.col-65 {
+    width: 65%;
     border: 1px dashed black;
 
 }
@@ -201,7 +201,7 @@ header .btn {
     padding-bottom: 15px;
 }
 
-.hero .col-77 {
+.hero .col-65 {
     margin-bottom: -70px;
 }
 
