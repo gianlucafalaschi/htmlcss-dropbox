@@ -214,6 +214,10 @@ header .btn {
 /*  */
 
 /* first section */
+.first label.invoice{
+    padding-right:48px;
+}
+
 .first > .container-small {
     padding-top:160px ;
 }
@@ -247,3 +251,5 @@ header .btn {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+/*  */
