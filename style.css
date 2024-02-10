@@ -380,11 +380,13 @@ header .btn {
 .first .row-bottom-top {
     padding-top: 0;
     padding-bottom: 0;
+    border:#D0D0D3;
 }
 
 .first .row-bottom-down{
     padding-top: 0px;
     padding-bottom: 0px;
+    border:#D0D0D3;
 }
 
 .plans.plans-bottom {
@@ -397,5 +399,11 @@ header .btn {
     justify-content: flex-end;
 
 }
+
+/* second section */
+section.second{
+    padding-top: 150px;
+}
+
 /*  */
 /*  *
