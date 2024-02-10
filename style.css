@@ -425,5 +425,15 @@ section.third{
 .third h2.title{
     padding-bottom:70px;
 }
+
+.third .col-33 {
+    width: calc(100% - 100px / 3);
+    border: 1px dashed black;
+}
+
+.third .col-33 .titolo{
+    padding-top: 5px;
+    padding-bottom: 36px;
+}
 /*  */
 /*  *
