@@ -37,9 +37,10 @@ header a{
     color: black;
 }
 
-.plans a {
+main a {
     color:#1800EE ;
 }
+
 
 .btn {
     cursor: pointer;
@@ -439,5 +440,18 @@ section.third{
 .row.fila1{
     padding-bottom: 50px;
 }
+
+.row.fila2{
+    padding-bottom:200px ;
+}
 /*  */
-/*  *
+
+/* fourth section */
+.fourth .row.row-fourth {
+    display: block;
+    padding-bottom: 142px;
+}
+
+.fourth h2.titolo{
+    padding-bottom:56px ;
+}
