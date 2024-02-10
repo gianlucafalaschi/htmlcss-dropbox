@@ -129,10 +129,10 @@ header li {
     width: 100%;
 }
 
-.plans.column-bottom .btn-large{
+.plans.plans-bottom .btn-large{
     background-color:#0061FF;
     color: #FFFFFF;
-    padding: 8px 38px;
+    padding: 8px 30px;
 }
 
 
@@ -389,7 +389,13 @@ header .btn {
 
 .plans.plans-bottom {
     padding: 38px 30px 38px 30px ;
+    
 }
 
+.plans.plans-bottom.dx {
+    display: flex;
+    justify-content: flex-end;
+
+}
 /*  */
 /*  *
