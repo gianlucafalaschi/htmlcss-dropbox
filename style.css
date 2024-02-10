@@ -417,5 +417,13 @@ section.second{
     padding-bottom: 30px;
 }
 
+/* third section */
+section.third{
+    padding-top: 160px;
+}
+
+.third h2.title{
+    padding-bottom:70px;
+}
 /*  */
 /*  *
