@@ -405,5 +405,17 @@ section.second{
     padding-top: 150px;
 }
 
+.pad38-30{
+    padding: 38px 30px 38px 30px
+}
+
+.col-33bottom.pad38-30 .title{
+    padding-bottom: 20px;
+}
+
+.col-33bottom.pad38-30 p {
+    padding-bottom: 30px;
+}
+
 /*  */
 /*  *
