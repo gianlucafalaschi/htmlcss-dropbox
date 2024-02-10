@@ -316,10 +316,7 @@ header .btn {
     padding-top: 34px;
 }
 
- /* bottom column */
-/* .row.row-bottom{
-    justify-content:space-between; 
-} */
+
 
 /* /list */
 
@@ -381,13 +378,17 @@ header .btn {
 }
 
 .first .row-bottom-top {
-    padding-top: 50px;
+    padding-top: 0;
     padding-bottom: 0;
 }
 
 .first .row-bottom-down{
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.plans.plans-bottom {
+    padding: 38px 30px 38px 30px ;
 }
 
 /*  */
