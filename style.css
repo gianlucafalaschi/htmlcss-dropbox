@@ -527,13 +527,25 @@ footer {
 footer .row.row-footer{
     padding-top: 102px;
     padding-bottom: 102px;
-    gap: 50px;
+    gap: 96px;
 }
 
 .col-20footer{
-   width:calc((100% - 400px) / 4);
+   width:calc((100% - 384px) / 4);
  }
     
+.footer-title{
+    padding-bottom: 30px;
+}
 
+.col-20footer > *{
+    display: block;
+    color: #FFFFFF;
+}
+
+.col-20footer a{
+    padding-bottom:18px;
+    text-decoration: none;
+}
 
 /* / footer */
