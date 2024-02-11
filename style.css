@@ -171,6 +171,11 @@ header .btn {
     padding-right: 10px;
 }
 
+.container-fullsize{
+    max-width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 
 
 .col-20 {
