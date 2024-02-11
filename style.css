@@ -128,6 +128,7 @@ header li {
 .btn-language{
     color: #999999;
     background-color: transparent;
+    padding: 0px;
 }
 
 .plans .btn-primary{
@@ -562,7 +563,7 @@ footer .col-12{
 }
 
 
-.row-language >  {
-    color: #FFFFFF;
+.row-language .icona  {
+    color: #999999;
 }
 /* / footer */
