@@ -465,6 +465,10 @@ section.third{
 /*/ fifth section */
 
 /* sixth section */
+section.sixth h2{
+    color: #61082B;
+}
+
 section.sixth {
     background-color:#B4D0E7 ;
 }
