@@ -500,12 +500,21 @@ section.sixth {
 
 .faq-parag{
     border-top: 1px solid #9D9D9D;
-    border-bottom: 1px solid #9D9D9D;
-    
+    display: flex;
+    justify-content: space-between;    
 }
+
+.seventh .faq-parag:last-of-type{
+    border-bottom: 1px solid #9D9D9D
+}
+
 
 .faq-parag p {
     padding: 38px 0;  
+    font-weight: bold;    
+}
 
+span.arrow {
+    padding: 38px 46px 38px 0;
 }
 /*/ seventh section */
