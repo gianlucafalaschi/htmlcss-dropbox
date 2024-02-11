@@ -520,4 +520,20 @@ span.arrow {
 /*/ seventh section */
 
 /* footer */
+footer {
+    background-color: #9D9D9D;
+}
+
+footer .row.row-footer{
+    padding-top: 102px;
+    padding-bottom: 102px;
+    gap: 50px;
+}
+
+.col-20footer{
+   width:calc((100% - 400px) / 4);
+ }
+    
+
+
 /* / footer */
