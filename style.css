@@ -143,6 +143,9 @@ header li {
     padding: 8px 30px;
 }
 
+#free-trial-btn{
+    border: none;
+}
 
 header .btn {
     font-size: 16px;
