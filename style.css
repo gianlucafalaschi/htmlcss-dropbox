@@ -582,24 +582,24 @@ section.dropbox-business{
 /*/ partners section */
 
 /* sixth section */
-section.sixth h2{
+section.free-trial h2{
     color: #61082B;
 }
 
-section.sixth {
+section.free-trial {
     background-color:#B4D0E7 ;
 }
 
-.row.row-sixth{
+.row.row-free-trial{
     padding-top: 130px;
     padding-bottom: 130px;
 }
 
-.sixth .col-33bottom {
+.free-trial .col-33bottom {
     padding-top: 8px;
 }
 
-.sixth .col-33bottom {
+.free-trial .col-33bottom {
     text-align: end;
 }
 
