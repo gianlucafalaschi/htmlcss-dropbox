@@ -499,13 +499,24 @@ section.third{
 
 .box-1{
     background-color: #A2D39B;
-}
+     border: 10px solid #D1E9CD;
+ }
 
-.partners .square-left, .partners .square-right {
+ .box-2{
+    background-color:#61082B ;
+ }
+ .box-3{
+    background-color:#0093CE ;
+ }
+ .box-4{
+    background-color:#FF1C1C ;
+ }
+
+
+/* .partners .square-left, .partners .square-right {
     justify-content: center;
-    align-items: center;
-    
-}
+    align-items: center;   
+} */
 
 .partners .square-left img, .partners .square-right img {
     width: 50%;
