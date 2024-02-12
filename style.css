@@ -512,6 +512,7 @@ section.third{
     border: 1px dashed lime;
     background-color: green;
     justify-content: center;
+    align-items: center;
 }
 
 .box-1{
