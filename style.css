@@ -167,8 +167,8 @@ header .btn {
  */    
     margin-left: -10px;
     margin-right: -10px;
-    border: 1px dashed black;
-}
+/*     border: 1px dashed black;
+ */}
 
 .container-small {
     max-width: 1000px;
@@ -193,30 +193,30 @@ header .btn {
 
 .col-33bottom {
     width: 33%;
-    border: 1px solid black;  
- }
+/*     border: 1px solid #D0D0D3;  
+ */ }
  .col-67bottom{
     width: 67%;
-    border: 1px solid black;  
-
+/*     border: 1px solid #D0D0D3;  
+ */
  }
 
 .col-30 {
     width: 30%;
-    border: 1px dashed black;
-
+/*     border: 1px dashed black;
+ */
 }
 
 .col-70 {
     width: 70%;
-    border: 1px dashed black;
-
+/*     border: 1px dashed black;
+ */
 }
 
 .col-100 {
     width: 100%;
-    border: 1px dashed black;
-
+/*     border: 1px dashed black;
+ */
 }
 
 
@@ -395,14 +395,24 @@ header .btn {
 .first .row-bottom-top {
     padding-top: 0;
     padding-bottom: 0;
-    border:#D0D0D3;
+    border:1px solid #D0D0D3;
 }
+
+.row-bottom-top .col100{
+    border:1px 1px 0 1px solid #D0D0D3;
+
+}
+
+.col-100 .plan-people{
+    border: none;
+} 
 
 .first .row-bottom-down{
     padding-top: 0px;
     padding-bottom: 0px;
-    border:#D0D0D3;
 }
+
+
 
 .plans.plans-bottom {
     padding: 38px 30px 38px 30px ;
@@ -413,6 +423,15 @@ header .btn {
     display: flex;
     justify-content: flex-end;
 
+}
+
+.first .col-67bottom {
+    border-bottom: 1px solid #D0D0D3;
+    border-left: 1px solid #D0D0D3;
+}
+.first .col-33bottom {
+    border-bottom: 1px solid #D0D0D3;
+    border-right: 1px solid #D0D0D3;
 }
 
 /* second section */
@@ -443,8 +462,8 @@ section.third{
 
 .third .col-33 {
     width: calc(100% - 100px / 3);
-    border: 1px dashed black;
-}
+/*     border: 1px dashed black;
+ */}
 
 .third .col-33 .titolo{
     padding-top: 5px;
@@ -473,16 +492,16 @@ section.third{
 /*partners  section */
 .partners .row.row-partners{
     display: flex;
-    border: 1px dashed black;
-}
+/*     border: 1px dashed black;
+ */}
 
 .partners .square{ 
     width: calc(100% / 3);
     height: calc(100vw / 3);
     display: flex;
     flex-wrap: wrap;
-    border: 1px dashed black;
-}
+/*     border: 1px dashed black;
+ */}
 
 .partners .square-central{
     display: block;
@@ -509,8 +528,8 @@ section.third{
     height: 50%;
     width: 50%;
     display: flex;
-    border: 1px dashed lime;
-    background-color: green;
+/*     border: 1px dashed lime;
+ */    background-color: green;
     justify-content: center;
     align-items: center;
 }
