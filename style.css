@@ -484,15 +484,35 @@ section.third{
     border: 1px dashed black;
 }
 
-.partners .square.central{
+.partners .square-central{
     overflow-y: auto;
 }
 
 .box {
     height: 50%;
     width: 50%;
+    display: flex;
     border: 1px dashed lime;
+    background-color: green;
+    justify-content: center;
 }
+
+.box-1{
+    background-color: #A2D39B;
+}
+
+.partners .square-left, .partners .square-right {
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.partners .square-left img, .partners .square-right img {
+    width: 50%;
+    filter: invert(1);
+}
+
+
 
 /*/ partners section */
 
