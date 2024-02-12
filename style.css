@@ -178,8 +178,7 @@ header .btn {
  */    
     margin-left: -10px;
     margin-right: -10px;
-/*     border: 1px dashed black;
- */}
+}
 
 .container-small {
     max-width: 1000px;
@@ -214,20 +213,17 @@ header .btn {
 
 .col-30 {
     width: 30%;
-/*     border: 1px dashed black;
- */
+
 }
 
 .col-70 {
     width: 70%;
-/*     border: 1px dashed black;
- */
+
 }
 
 .col-100 {
     width: 100%;
-/*     border: 1px dashed black;
- */
+
 }
 
 
@@ -477,8 +473,7 @@ section.dropbox-business{
 
 .dropbox-business .col-33 {
     width: calc(100% - 100px / 3);
-/*     border: 1px dashed black;
- */}
+}
 
 .dropbox-business .col-33 .titolo{
     padding-top: 5px;
@@ -507,16 +502,14 @@ section.dropbox-business{
 /*partners  section */
 .partners .row.row-partners{
     display: flex;
-/*     border: 1px dashed black;
- */}
+}
 
 .partners .square{ 
     width: calc(100% / 3);
     height: calc(100vw / 3);
     display: flex;
     flex-wrap: wrap;
-/*     border: 1px dashed black;
- */}
+}
 
 .partners .square-central{
     display: block;
@@ -543,8 +536,6 @@ section.dropbox-business{
     height: 50%;
     width: 50%;
     display: flex;
-/*     border: 1px dashed lime;
- */    background-color: green;
     justify-content: center;
     align-items: center;
 }
