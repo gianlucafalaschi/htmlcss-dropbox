@@ -263,15 +263,15 @@ header .btn {
 /*  */
 
 /* first section */
-.first label.invoice{
+.business-plan label.invoice{
     padding-right:48px;
 }
 
-.first > .container-small {
+.business-plan > .container-small {
     padding-top:160px ;
 }
 
-.first .col-33 {
+.business-plan .col-33 {
     width: calc(100% - 100px / 3);
     /* display:flex;
     justify-content: flex-start; */
@@ -280,7 +280,7 @@ header .btn {
 
 /* plans */
 
-.first .col-33{
+.business-plan .col-33{
     border: 1px solid #D0D0D3;
     
 }
@@ -384,16 +384,16 @@ header .btn {
     margin-left: 25px;
 }
 
-.first h2.title{
+.business-plan h2.title{
     padding-bottom: 70px;
 } 
 
-.first .row{
+.business-plan .row{
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-.first .row-bottom-top {
+.business-plan .row-bottom-top {
     padding-top: 0;
     padding-bottom: 0;
     border:1px solid #D0D0D3;
@@ -408,7 +408,7 @@ header .btn {
     border: none;
 } 
 
-.first .row-bottom-down{
+.business-plan .row-bottom-down{
     padding-top: 0px;
     padding-bottom: 0px;
 }
@@ -426,11 +426,11 @@ header .btn {
 
 }
 
-.first .col-67bottom {
+.business-plan .col-67bottom {
     border-bottom: 1px solid #D0D0D3;
     border-left: 1px solid #D0D0D3;
 }
-.first .col-33bottom {
+.business-plan .col-33bottom {
     border-bottom: 1px solid #D0D0D3;
     border-right: 1px solid #D0D0D3;
 }
