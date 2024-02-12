@@ -42,7 +42,7 @@ main a {
 }
 
 
-.btn {
+.btn, .btn-large {
     cursor: pointer;
 }
 
