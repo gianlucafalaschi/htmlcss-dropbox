@@ -453,20 +453,20 @@ section.get-in-touch{
 }
 
 /* third section */
-section.third{
+section.dropbox-business{
     padding-top: 160px;
 }
 
-.third h2.title{
+.dropbox-business h2.title{
     padding-bottom:70px;
 }
 
-.third .col-33 {
+.dropbox-business .col-33 {
     width: calc(100% - 100px / 3);
 /*     border: 1px dashed black;
  */}
 
-.third .col-33 .titolo{
+.dropbox-business .col-33 .titolo{
     padding-top: 5px;
     padding-bottom: 36px;
 }
