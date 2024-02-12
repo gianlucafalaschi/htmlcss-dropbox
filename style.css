@@ -481,12 +481,12 @@ section.dropbox-business{
 /*  */
 
 /* fourth section */
-.fourth .row.row-fourth {
+.clients .row.row-clients {
     display: block;
     padding-bottom: 142px;
 }
 
-.fourth h2.titolo{
+.clients h2.titolo{
     padding-bottom:56px ;
 }
 
