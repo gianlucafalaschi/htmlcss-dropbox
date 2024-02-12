@@ -438,6 +438,10 @@ header .btn {
     border-right: 1px solid #D0D0D3;
 }
 
+.row-bottom-down .col-67bottom .plan-type{
+    padding: 0px;
+}
+
 /* second section */
 section.get-in-touch{
     padding-top: 150px;
