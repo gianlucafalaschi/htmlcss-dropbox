@@ -100,7 +100,7 @@ header li {
     background: transparent;
     border: none;
     font-family: inherit;
-    padding: 6px 14px;
+    padding: 8px 14px;
 }
 
 .btn-large { 
@@ -123,6 +123,7 @@ header li {
 
 .btn-tertiary{
     background-color: white;
+    border: 1px solid black;
 }
 
 .btn-language{
