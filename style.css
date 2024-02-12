@@ -144,7 +144,7 @@ header li {
     width: 100%;
 }
 
-.plans.plans-bottom .btn-large{
+.btn-quaternary{
     background-color:#0061FF;
     color: #FFFFFF;
     padding: 8px 30px;
