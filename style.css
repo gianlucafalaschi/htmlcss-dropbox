@@ -537,11 +537,13 @@ footer {
 footer .row.row-footer{
     padding-top: 102px;
     padding-bottom: 102px;
-    gap: 96px;
+/*     gap: 96px;
+ */    gap: 60px;
 }
 
 .col-20footer{
-   width:calc((100% - 384px) / 4);
+/*    width:calc((100% - 384px) / 4);
+ */   width:calc((100% - 240px) / 4);
  }
     
 .footer-title{
