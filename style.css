@@ -46,7 +46,14 @@ main a {
     cursor: pointer;
 }
 
+.btn:hover {
+    background-color: #66686B;
+}
 
+.btn-large:hover{
+    background-color: #66686B;
+
+}
 
 /* HEADER */
 header {
