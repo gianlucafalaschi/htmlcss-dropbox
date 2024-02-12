@@ -470,9 +470,23 @@ section.third{
     padding-bottom:56px ;
 }
 
-/* fifth section */
+/*partners  section */
+.partners .row.row-partners{
+    display: flex;
+    border: 1px dashed black;
+}
 
-/*/ fifth section */
+.partners .square{ 
+    width: calc(100% / 3);
+    height: calc(100vw / 3);
+    border: 1px dashed black;
+}
+
+.partners .square.central{
+    overflow-y: auto;
+}
+
+/*/ partners section */
 
 /* sixth section */
 section.sixth h2{
