@@ -479,11 +479,19 @@ section.third{
 .partners .square{ 
     width: calc(100% / 3);
     height: calc(100vw / 3);
+    display: flex;
+    flex-wrap: wrap;
     border: 1px dashed black;
 }
 
 .partners .square.central{
     overflow-y: auto;
+}
+
+.box {
+    height: 50%;
+    width: 50%;
+    border: 1px dashed lime;
 }
 
 /*/ partners section */
